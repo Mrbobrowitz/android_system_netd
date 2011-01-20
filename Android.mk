@@ -48,7 +48,8 @@ LOCAL_SRC_FILES:=                                      \
                   PppController.cpp                    \
                   PanController.cpp                    \
                   UsbController.cpp                    \
-                  ThrottleController.cpp
+                  ThrottleController.cpp               \
+                  RouteController.cpp
 
 LOCAL_MODULE:= netd
 
